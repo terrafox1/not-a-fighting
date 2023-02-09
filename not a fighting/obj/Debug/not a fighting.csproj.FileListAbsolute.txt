@@ -1,0 +1,8 @@
+Z:\я у мамы програмист\not a fighting\not a fighting\bin\Debug\not a fighting.exe.config
+Z:\я у мамы програмист\not a fighting\not a fighting\bin\Debug\not a fighting.exe
+Z:\я у мамы програмист\not a fighting\not a fighting\bin\Debug\not a fighting.pdb
+Z:\я у мамы програмист\not a fighting\not a fighting\obj\Debug\not a fighting.csproj.AssemblyReference.cache
+Z:\я у мамы програмист\not a fighting\not a fighting\obj\Debug\not a fighting.csproj.SuggestedBindingRedirects.cache
+Z:\я у мамы програмист\not a fighting\not a fighting\obj\Debug\not a fighting.csproj.CoreCompileInputs.cache
+Z:\я у мамы програмист\not a fighting\not a fighting\obj\Debug\not a fighting.exe
+Z:\я у мамы програмист\not a fighting\not a fighting\obj\Debug\not a fighting.pdb
